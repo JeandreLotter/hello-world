@@ -1,2 +1,3 @@
 # hello-world
-this is me following the GitHub tutorial for an assignment
+This is me following the GitHub tutorial for an assignment.
+I am tired
